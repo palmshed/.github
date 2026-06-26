@@ -20,22 +20,22 @@ When a repository links to an external application, website, or hosted service, 
 
 Some repositories are forks, mirrors, archived projects, or code that has moved from other organizations. Original licenses, copyright notices, trademarks, attribution, and upstream history remain with their respective owners where applicable.
 
-If you believe a repository should be corrected, credited, removed, or made private, please open an issue in `palmshed/.github`.
+If you believe a repository should be corrected, credited, removed, or made private, please open an issue in [`palmshed/.github`](https://github.com/palmshed/.github).
 
 ## Links
 
-<img src="https://github.com/palmshed/.github/raw/main/profile/mark.svg" width="16" height="16" alt=""> `warehouse` https://palmshed.github.io
+<img src="https://github.com/palmshed/.github/raw/main/profile/mark.svg" width="16" height="16" alt=""> [warehouse](https://palmshed.github.io)
 
-<img src="https://github.com/palmshed/.github/raw/main/profile/source.svg" width="16" height="16" alt=""> `source` https://github.com/palmshed/.github
+<img src="https://github.com/palmshed/.github/raw/main/profile/source.svg" width="16" height="16" alt=""> [source](https://github.com/palmshed/.github)
 
 ## External context
 
 <details>
 <summary>references</summary>
 
-* harpertoken
-* emberlamp
-* designgrade
-* libnudget
+* [`harpertoken`](https://github.com/harpertoken)
+* [`emberlamp`](https://github.com/emberlamp)
+* [`designgrade`](https://github.com/designgrade)
+* [`libnudget`](https://github.com/libnudget)
 
 </details>
