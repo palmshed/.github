@@ -2,7 +2,7 @@
   <img src="https://github.com/palmshed/.github/raw/main/profile/mark.svg" width="64" height="64" alt="">
 </p>
 
-# Arbor Core
+# company / GitHub organization
 
 `palmshed` is a public warehouse for small apps, experiments, releases, demos, and source code that may be useful to revisit, share, or ship.
 
