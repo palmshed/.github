@@ -2,30 +2,40 @@
   <img src="https://github.com/palmshed/.github/raw/main/profile/mark.svg" width="64" height="64" alt="">
 </p>
 
-# company / GitHub organization
+# Palmshed
 
-`palmshed` is a public warehouse for small apps, experiments, releases, demos, and source code that may be useful to revisit, share, or ship.
+Palmshed is a software organization that develops and maintains applications, developer tools, infrastructure, and supporting systems. This GitHub organization is the public home for that work, including projects in active development, published releases, prototypes, and archived repositories.
 
 ## What is here
 
-- App and service repositories
-- Release builds and distribution notes
-- Demos, prototypes, and technical experiments
-- Mirrors, forks, and moved projects that need a stable public home
+Repositories may include applications, services, libraries, command-line tools, runtime components, experiments, release artifacts, and reference implementations. Some projects are complete, while others continue to evolve over time.
 
 ## Privacy and data
 
-Palmshed does not run a separate account system from this GitHub organization and does not ask visitors for personal information here. Public activity on these repositories is handled by GitHub, including stars, forks, issues, pull requests, discussions, releases, and repository traffic data.
+Palmshed does not operate a separate account system through this GitHub organization and does not request personal information from visitors here. Public activity, including stars, forks, issues, pull requests, discussions, releases, and repository traffic, is provided by GitHub.
 
-If a Palmshed project links to an external service, app, or hosted demo, that project may have its own privacy behavior. Check the repository README, release notes, or linked site before using it.
+When a repository links to an external application, website, or hosted service, that project may have its own documentation, terms, or privacy practices.
 
-## Ownership and credits
+## Ownership
 
-Some repositories may be forks, mirrors, archived experiments, or moved code from other organizations. Names, commit history, licenses, trademarks, and upstream notices may belong to their original projects.
+Some repositories are forks, mirrors, archived projects, or code that has moved from other organizations. Original licenses, copyright notices, trademarks, attribution, and upstream history remain with their respective owners where applicable.
 
-If something here should be corrected, removed, credited, or made private, open an issue in [`palmshed/.github`](https://github.com/palmshed/.github).
+If you believe a repository should be corrected, credited, removed, or made private, please open an issue in `palmshed/.github`.
 
 ## Links
 
-<img src="https://github.com/palmshed/.github/raw/main/profile/mark.svg" width="16" height="16" alt=""> [`warehouse`](https://palmshed.github.io)  
-<img src="https://github.com/palmshed/.github/raw/main/profile/source.svg" width="16" height="16" alt=""> [`source`](https://github.com/palmshed/.github)
+<img src="https://github.com/palmshed/.github/raw/main/profile/mark.svg" width="16" height="16" alt=""> `warehouse` https://palmshed.github.io
+
+<img src="https://github.com/palmshed/.github/raw/main/profile/source.svg" width="16" height="16" alt=""> `source` https://github.com/palmshed/.github
+
+## External context
+
+<details>
+<summary>references</summary>
+
+* harpertoken
+* emberlamp
+* designgrade
+* libnudget
+
+</details>
