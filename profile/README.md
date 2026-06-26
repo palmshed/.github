@@ -28,7 +28,7 @@ If you believe a repository should be corrected, credited, removed, or made priv
 
 <img src="https://github.com/palmshed/.github/raw/main/profile/source.svg" width="16" height="16" alt=""> [source](https://github.com/palmshed/.github)
 
-<img src="https://github.com/palmshed/.github/raw/main/profile/bell.svg" width="16" height="16" alt=""> [updates](https://github.com/gpucomm-hq)
+<img src="https://github.com/palmshed/.github/raw/main/profile/bell.svg?v=2" width="16" height="16" alt=""> [updates](https://github.com/gpucomm-hq)
 
 ## References
 
