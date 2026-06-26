@@ -4,7 +4,7 @@
 
 # Palmshed
 
-Palmshed is a software organization that develops and maintains applications, developer tools, infrastructure, and supporting systems. This GitHub organization is the public home for that work, including projects in active development, published releases, prototypes, archived repositories, and long-term reference code.
+Palmshed is a software organization that develops and maintains applications, developer tools, infrastructure, and supporting systems. This GitHub organization is the public home for projects in active development, published releases, prototypes, archived repositories, and long-term reference code.
 
 ## What is here
 
@@ -28,14 +28,14 @@ If you believe a repository should be corrected, credited, removed, or made priv
 
 <img src="https://github.com/palmshed/.github/raw/main/profile/source.svg" width="16" height="16" alt=""> [source](https://github.com/palmshed/.github)
 
-<img src="https://github.com/palmshed/.github/raw/main/profile/source.svg" width="16" height="16" alt=""> [updates](https://github.com/gpucomm-hq)
+<img src="https://github.com/palmshed/.github/raw/main/profile/bell.svg" width="16" height="16" alt=""> [updates](https://github.com/gpucomm-hq)
 
-## External context
+## References
 
 <details>
-<summary>references</summary>
+<summary>related organizations</summary>
 
-The following organizations have been part of earlier work, shared development, reference implementations, or upstream collaboration.
+These organizations have contributed to earlier work, shared development, reference implementations, or upstream projects associated with repositories in this organization.
 
 - [`harpertoken`](https://github.com/harpertoken)
 - [`emberlamp`](https://github.com/emberlamp)
