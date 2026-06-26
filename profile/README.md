@@ -4,7 +4,7 @@
 
 # Palmshed
 
-Palmshed is a software organization that develops and maintains applications, developer tools, infrastructure, and supporting systems. This GitHub organization is the public home for that work, including projects in active development, published releases, prototypes, and archived repositories.
+Palmshed is a software organization that develops and maintains applications, developer tools, infrastructure, and supporting systems. This GitHub organization is the public home for that work, including projects in active development, published releases, prototypes, archived repositories, and long-term reference code.
 
 ## What is here
 
@@ -28,14 +28,18 @@ If you believe a repository should be corrected, credited, removed, or made priv
 
 <img src="https://github.com/palmshed/.github/raw/main/profile/source.svg" width="16" height="16" alt=""> [source](https://github.com/palmshed/.github)
 
+<img src="https://github.com/palmshed/.github/raw/main/profile/source.svg" width="16" height="16" alt=""> [updates](https://github.com/gpucomm-hq)
+
 ## External context
 
 <details>
 <summary>references</summary>
 
-* [`harpertoken`](https://github.com/harpertoken)
-* [`emberlamp`](https://github.com/emberlamp)
-* [`designgrade`](https://github.com/designgrade)
-* [`libnudget`](https://github.com/libnudget)
+The following organizations have been part of earlier work, shared development, reference implementations, or upstream collaboration.
+
+- [`harpertoken`](https://github.com/harpertoken)
+- [`emberlamp`](https://github.com/emberlamp)
+- [`designgrade`](https://github.com/designgrade)
+- [`libnudget`](https://github.com/libnudget)
 
 </details>
